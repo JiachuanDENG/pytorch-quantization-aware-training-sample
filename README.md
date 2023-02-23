@@ -1,6 +1,6 @@
 # pytorch-quantization-aware-training-sample
 
-### :fire: pytorch quantization easy sample 
+### :fire: pytorch quantization easy example
 
 :white_check_mark: support static post training quantization (***PTQ***)
 
