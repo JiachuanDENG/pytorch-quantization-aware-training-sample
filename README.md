@@ -6,7 +6,7 @@
 
 :white_check_mark: support quantization aware training (***QAT***)
 
-:white_check_mark: support initialize quant model with pre-trained model
+:white_check_mark: support initializing quant model with pre-trained float model
 
 :white_check_mark: support train quant model with QAT from scratch
 
